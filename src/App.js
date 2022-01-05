@@ -4,7 +4,6 @@ const { BN, Long, bytes, units } = require('@zilliqa-js/util');
 
 
 // update this address if you deploy new contract.
-// const CONTRACT_ADDRESS = "0xb4d5b797472ae618ad0c56ba28a85eb920bb0812";
 const CONTRACT_ADDRESS = "zil1kn2m09689tnp3tgv26az32z7hystkzqjf84vl0";
 const CHAIN_ID = 333;
 const MSG_VERSION = 1;
